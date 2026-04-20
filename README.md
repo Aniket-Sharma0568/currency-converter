@@ -56,19 +56,6 @@ The main objectives of this project are:
 - To build a real-world utility application  
 - To improve front-end development and UI design skills  
 
----
-
-## 📸 Screenshots
-
-(Add screenshots of your application here after uploading)
-
----
-
-## 🌐 Live Demo
-
-(Add your deployed project link here if hosted on Netlify/Vercel)
-
----
 
 ## 📌 Future Enhancements
 
